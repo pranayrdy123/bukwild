@@ -1,0 +1,13 @@
+{
+    "0": {
+        "text": "Industries",
+        "color": "blue",
+        "size": "small",
+        "title": "kaki"
+    },
+    "1": {
+        "text": "Services",
+        "color": "red",
+        "size": "medium"
+    }
+}
